@@ -1,1 +1,6 @@
+# Thư viện nền tảng cho giai đoạn khởi tạo (Sprint 0)
+Flask==3.0.3
 
+# Các thư viện sẽ bổ sung ở các sprint sau khi mở rộng tính năng:
+# requests
+# python-dotenv
